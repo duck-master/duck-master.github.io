@@ -1,0 +1,100 @@
+html {
+    background-image: linear-gradient(90deg, #fc8f08, yellow);
+    -webkit-font-smoothing: antialiased;
+}
+
+
+/* header */
+
+.header {
+    background: white;
+    box-shadow: 0 0 2px rgba(0, 0, 0, 0.06);
+    font-size: 16px;
+    margin: 10px auto;
+    max-width: 1000px;
+    padding: 2em 2em 4em;
+    overflow: hidden;
+}
+
+.header-title{
+    float: left;
+    max-width: 480px;
+    background: lightblue;
+    /*border: 1px solid black;*/
+}
+
+.header-img{
+    float: left;
+    max-width: 500px;
+    height: 256px;
+    background: white;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: 300;
+    text-align: center;
+}
+
+
+img {
+    background: transparent;
+    border: 5px solid black;
+    max-width: 95%;
+}
+
+
+/* middler */
+
+.middler {
+    background: #2f5d68;
+    color: black;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: 300;
+    font-size: 15px;
+    line-height: 1.4;
+    margin: 0 auto;
+    max-width: 1000px;
+    padding: 2em 2em 2em;
+}
+
+.content-box{
+    background-color: cornsilk;
+    margin: 0 auto;
+    border: 1px solid black;
+    margin-bottom: 11px;
+}
+
+
+/* tailer */
+
+.tailer{
+    background: darkcyan;
+    width: 1000px;
+    margin: 0 auto;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+
+/* text formatting */
+
+h1, h2, h3, h4, h5, h6 {
+    color: black;
+    font-family: "Comic Sans MS", Helvetica, Arial, sans-serif;
+    font-weight: 600;
+    line-height: 1.3;
+}
+
+h1{
+    font-size: 42pt;
+}
+
+h1, h2 {
+    text-decoration: underline;
+}
+
+h2, p{
+    margin-top: 1.3em;
+    margin-left: 8px;
+}
+
+a:visited{
+    color: #2f5d68;
+}
