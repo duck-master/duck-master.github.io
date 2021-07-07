@@ -70,8 +70,11 @@ img {
     width: 1000px;
     margin: 0 auto;
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+   
+        
 }
-
+.tailer a {
+    color: blue;
 
 /* text formatting */
 
