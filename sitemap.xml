@@ -3,22 +3,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
    <url>
       <loc>http://duck-master.github.io/index.html</loc>
-      <lastmod>2022-01-07</lastmod>
-      <changefreq>weekly</changefreq>
-   </url>
-   <url>
-      <loc>http://duck-master.github.io/about.html</loc>
-      <lastmod>2022-01-07</lastmod>
-      <changefreq>weekly</changefreq>
-   </url>
-   <url>
-      <loc>http://duck-master.github.io/legal-etc.html</loc>
-      <lastmod>2022-01-07</lastmod>
+      <lastmod>2023-04-22</lastmod>
       <changefreq>yearly</changefreq>
    </url>
    <url>
+      <loc>http://duck-master.github.io/about.html</loc>
+      <lastmod>2023-04-22</lastmod>
+      <changefreq>yearly</changefreq>
+   </url>
+   <url>
+      <loc>http://duck-master.github.io/legal-etc.html</loc>
+      <lastmod>2023-04-22</lastmod>
+      <changefreq>never</changefreq>
+   </url>
+   <url>
       <loc>http://duck-master.github.io/404.html</loc>
-      <lastmod>2022-01-07</lastmod>
+      <lastmod>2023-04-22</lastmod>
       <changefreq>yearly</changefreq>
    </url>
 </urlset>
