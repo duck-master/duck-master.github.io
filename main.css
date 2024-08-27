@@ -9,24 +9,24 @@ html {
 .header {
     background: white;
     box-shadow: 0 0 2px rgba(0, 0, 0, 0.06);
-    font-size: 16px;
-    margin: 10px auto;
-    max-width: 1000px;
+    font-size: 1em;
+    margin: 0.6rem auto;
+    max-width: 60em;
     padding: 2em 2em 4em;
     overflow: hidden;
 }
 
 .header-title{
     float: left;
-    max-width: 480px;
+    max-width: 28em;
     background: lightblue;
     /*border: 1px solid black;*/
 }
 
 .header-img{
     float: left;
-    max-width: 500px;
-    height: 256px;
+    max-width: 30em;
+    height: 16em;
     background: white;
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-weight: 300;
@@ -34,32 +34,51 @@ html {
 }
 
 
-img {
+.header img {
     background: transparent;
     border: 5px solid black;
     max-width: 95%;
 }
 
+/* navbar styles */
+.navbar{
+    margin-bottom: 1em;
+    overflow: hidden;
+    background-color: #2f5d68;
+}
+
+.navbar a{
+    float: left;
+    display: block;
+    color: white;
+    padding: 1em 0.5em 1em 0.5em;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: 300;
+}
+
+.navbar a:visited{
+    color: lightblue; /* to make the links visible at all */
+}
 
 /* middler */
 
 .middler {
     background: #2f5d68;
-    color: black;
-    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-weight: 300;
-    font-size: 15px;
+    font-size: 1em;
     line-height: 1.4;
     margin: 42px auto;
-    max-width: 1000px;
+    max-width: 60em;
     padding: 2em 2em 2em;
 }
 
 .content-box{
     background-color: cornsilk;
+    color: black;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
     margin: 0 auto;
     border: 1px solid black;
-    margin-bottom: 11px;
+    margin-bottom: 0.7em;
 }
 
 
@@ -67,7 +86,7 @@ img {
 
 .tailer{
     background: darkcyan;
-    width: 1000px;
+    width: 60em;
     margin: 0 auto;
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
    
@@ -87,7 +106,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1{
-    font-size: 42pt;
+    font-size: 3em;
 }
 
 h1, h2 {
@@ -96,7 +115,7 @@ h1, h2 {
 
 h2, p{
     margin-top: 1.3em;
-    margin-left: 8px;
+    margin-left: 0.5em;
 }
 
 a:visited{
