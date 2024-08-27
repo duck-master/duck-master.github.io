@@ -8,17 +8,17 @@
    </url>
    <url>
       <loc>http://duck-master.github.io/about.html</loc>
-      <lastmod>2023-08-06</lastmod>
+      <lastmod>2024-08-26</lastmod>
       <changefreq>yearly</changefreq>
    </url>
    <url>
       <loc>http://duck-master.github.io/legal-etc.html</loc>
-      <lastmod>2023-04-22</lastmod>
-      <changefreq>never</changefreq>
+      <lastmod>2024-08-26</lastmod>
+      <changefreq>yearly</changefreq>
    </url>
    <url>
       <loc>http://duck-master.github.io/404.html</loc>
-      <lastmod>2023-04-22</lastmod>
+      <lastmod>2024-08-26</lastmod>
       <changefreq>yearly</changefreq>
    </url>
 </urlset>
