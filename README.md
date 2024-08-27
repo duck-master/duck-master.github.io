@@ -31,6 +31,10 @@ The file structure is as follows:
 * `robots.txt`
 * `sitemap.xml`
 
+# Licensing #
+
+I hereby dual-license my website under both *MIT* and *CC-BY 4.0 or later*. Purely *code-based* portions of my website may be treated as single-licensed under MIT; purely *text-based* portions may be treated as single-licensed under CC-BY 4.0.
+
 # Contributing #
 
 If you want to contribute to my personal website, there are three different ways:
@@ -40,3 +44,5 @@ If you want to contribute to my personal website, there are three different ways
 * Email me at **[duckmaster0@protonmail.com](mailto:duckmaster0@protonmail.com)** and ask me to fix the issue myself.
 
 Do note that this repo *is* my personal website, so I may reject suggestions more harshly than with more code-centric projects.
+
+To reduce legal headaches, please agree to also release your contribution(s) under both MIT and CC-BY 4.0.
