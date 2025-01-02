@@ -6,7 +6,7 @@ html {
 
 /* header */
 
-.header {
+header {
     background: white;
     box-shadow: 0 0 2px rgba(0, 0, 0, 0.06);
     font-size: 1em;
@@ -34,7 +34,7 @@ html {
 }
 
 
-.header img {
+header img {
     background: transparent;
     border: 5px solid black;
     max-width: 95%;
@@ -82,9 +82,9 @@ html {
 }
 
 
-/* tailer */
+/* footer */
 
-.tailer{
+footer {
     background: darkcyan;
     width: 60em;
     margin: 0 auto;
@@ -92,7 +92,7 @@ html {
    
         
 }
-.tailer a {
+footer a {
     color: blue;
 }
 
